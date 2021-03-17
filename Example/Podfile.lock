@@ -1,0 +1,16 @@
+PODS:
+  - QLByte (0.1.0)
+
+DEPENDENCIES:
+  - QLByte (from `../`)
+
+EXTERNAL SOURCES:
+  QLByte:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QLByte: b8189441224fd360fd798b4bd56177cbb1c41f04
+
+PODFILE CHECKSUM: ff53a45febe8ac16e2d087699c5763b4edecfcde
+
+COCOAPODS: 1.9.3

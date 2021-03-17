@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'QLByte_Example' do
+  pod 'QLByte', :path => '../'
+
+  target 'QLByte_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
